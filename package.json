@@ -18,7 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.26.4",
-    "@babel/core": "7.26.8",
+    "@babel/core": "7.29.6",
     "@babel/preset-env": "7.26.8",
     "@eslint/js": "9.20.0",
     "babel-loader": "9.2.1",
@@ -36,9 +36,9 @@
     "mini-css-extract-plugin": "2.9.2",
     "prettier": "3.5.0",
     "terser-webpack-plugin": "5.3.11",
-    "webpack": "5.97.1",
+    "webpack": "5.112.2",
     "webpack-cli": "6.0.1",
-    "webpack-dev-server": "5.2.0",
+    "webpack-dev-server": "5.2.6",
     "webpack-merge": "6.0.1"
   }
 }
